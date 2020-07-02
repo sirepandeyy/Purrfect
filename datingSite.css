@@ -1,0 +1,39 @@
+
+    body{
+        background-image: url(rom2.jpg);
+        padding-top: 70px;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        background-attachment: fixed;
+        color: white;
+        font-family: 'Handlee',cursive;       
+        text-shadow: 1px 1px 3px black;  
+    }
+   .content{
+       padding-top: 25%;
+       text-align: center;
+  
+     }
+     a{
+         font-family: 'Handlee',cursive;
+     }
+ 
+    .content h1,.content h3{
+         color: whitesmoke;
+         font-family: 'Hanldee',cursive;
+        text-shadow: 1px 1px 2px black;
+       
+        }
+   html{
+       height: 100%;
+   }
+ .content  h1{
+     color: white;
+      font-size: 70px;
+   }
+   hr{
+       width: 400px;
+       border-top: 1px solid #f8f8f8;
+       border-bottom: 1px solid rgba(0,0,0,.2);
+   }
